@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WFP</string>
+    <string name="app_subtitle">WorkForce Planning</string>
+    <string name="select_a_site">Select a Site</string>
+</resources>
